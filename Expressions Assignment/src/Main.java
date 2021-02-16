@@ -37,6 +37,8 @@ public class Main {
         System.out.println((9 % 4) - 8 + Math.pow(2,3) / 8 + (Math.sqrt(81) / 3));
         System.out.println(1 - 8 + 8.0/8 + 9.0/3);
         System.out.println(1 - 8 + 1.0 + 3.0);
+        System.out.println(-7 + 1.0 + 3.0);
+        System.out.println(-6.0 + 3.0);
         System.out.println(-3.0);
 
         //Expression 5
